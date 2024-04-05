@@ -78,14 +78,10 @@ NOTE: The files should be organized this way:
 Go to the directory where you want to run the Nextflow pipeline and store the outputs. Then run
 
 ```bash
-Rscript 0.make_input_csv_table.R path/where/the sequences/are/
+Rscript 0.make_input_csv_table.R path/where/the/sequences/are/
 ```
 
 **Run the Pipeline:** Execute the Nextflow command to run the pipeline:
-
-Go to the directory where you want to store the outputs and where the CSV table is located. 
-
-Run
 
 ```bash
 nextflow run /path/to/the/directory/nf_metagen.nf -profile conda
