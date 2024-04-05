@@ -1,0 +1,3 @@
+sample_id,seq_name_1,seq_name_2,read1,read2
+SRR6743909,SRR6743909_1.fastq.gz,SRR6743909_2.fastq.gz,/fs/project/PAS1117/CONGO_PROJECT/Vaginal_Swabs/Shotgun_MetaG/MOMS-PI/SRR6743909/SRR6743909_1.fastq.gz,/fs/project/PAS1117/CONGO_PROJECT/Vaginal_Swabs/Shotgun_MetaG/MOMS-PI/SRR6743909/SRR6743909_2.fastq.gz
+SRR6743910,SRR6743910_1.fastq.gz,SRR6743910_2.fastq.gz,/fs/project/PAS1117/CONGO_PROJECT/Vaginal_Swabs/Shotgun_MetaG/MOMS-PI/SRR6743910/SRR6743910_1.fastq.gz,/fs/project/PAS1117/CONGO_PROJECT/Vaginal_Swabs/Shotgun_MetaG/MOMS-PI/SRR6743910/SRR6743910_2.fastq.gz
