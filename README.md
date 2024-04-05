@@ -60,7 +60,7 @@ column names = sample_id /	seq_name_1 /	seq_name_2	/ read1 / read2
 
 ![image](https://github.com/ricrocha82/nextflow_metaG/assets/46669010/57c11f16-8f36-4f53-bf94-eb7107274b4b)
 
-Running the code below can help you make the input table.
+Running the [code](https://github.com/ricrocha82/nextflow_metaG/blob/main/make_input_csv_table.R) below can help you make the input table.
 
 NOTE: The files should be organized this way:
 
