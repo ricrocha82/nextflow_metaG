@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive metagenomic analysis pipeline designed for the study of viruses and prokaryotes in environmental or human/animal samples. The pipeline is implemented in Nextflow, making it scalable, reproducible, and easy to deploy on various computing environments.
 
-- [Nextflow pipeline](https://github.com/ricrocha82/metagenomics/tree/main/nextflow): pre-processing samples, R/Python for statistical analysis
+- [Nextflow pipeline]([https://github.com/ricrocha82/metagenomics/tree/main/nextflow](https://www.nextflow.io)): pre-processing samples, R/Python for statistical analysis
 - Command line for each processing steps are described in below.
 
 
