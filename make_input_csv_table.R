@@ -43,5 +43,5 @@ write_csv(df_dir_na, "files/sequences_na.csv")
 
 
 # USE THIS CSV AS THE INPUT OF THE NEXTFLOW PIPELINE
-# run Rscript /fs/project/PAS1117/ricardo/CONGO/metaG/code/moms-pi/general/0.make_input_csv_table.R path/to/the/raw/reads
+# run Rscript make_input_csv_table.R path/to/the/raw/reads
 
